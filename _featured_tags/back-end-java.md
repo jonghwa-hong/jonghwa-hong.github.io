@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: NLP
-slug: nlp
-category: class
+title: JAVA
+slug: java
+category: back-end
 menu: false
 order: 1
 ---

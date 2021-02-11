@@ -2,30 +2,29 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 vvs:
-  name:              HyunWoo Kim
-  email:             dleo_vvs@kakao.com
+  name:              Jonghwa Hong
+  email:             zzzonghwa@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    간단한 자기소개
-    저는 인공지능을 배우고 있는 대학원생입니다.
+    저는 게으른 개발자가 되고 싶은 홍종화입니다. 🔥🔥🔥
 
 
   # This photo will be used in the about section
-  picture:
-    src:             /assets/img/me.png
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/img/me.png
-      2x:            /assets/img/me.png
+  # picture:
+  #   src:             
+    # srcset is optional, but can be used to provide higher res versions for retina displays -> mobile
+    # srcset:
+    #   1x:            
+    #   2x:            
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:         khw11044
+    # facebook:        <username>
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -49,7 +48,7 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          khw11044
+    github:          jonghwa-hong
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -60,8 +59,8 @@ vvs:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           dleo_vvs@kakao.com
-    rss:             https://khw11044.github.io/feed.xml
+    email:           zzzonghwa@gmail.com
+    rss:             https://jonghwa-hong.github.io/feed.xml
 
 # Another author
 author2:
